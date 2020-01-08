@@ -1,6 +1,5 @@
 # This Repository is to do Jupyter Notebook to apply MapReduce and move data to HDFS.
----
-### I work in Pseudo-Distributed Mode;
+- I work in Pseudo-Distributed Mode;
 ---
 - I use dataset in <a href=\"https://grouplens.org/datasets/movielens/\"> MovieLens </a> for this tutorial.
 ---
