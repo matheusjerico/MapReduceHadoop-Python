@@ -9,5 +9,4 @@
 	- OrgulhoePreconceito.txt;
 	- amigos_facebook.csv;
 ----
-- Jupyter notebook contain all commands used in cluster hadoop.
-
+## Jupyter notebook contain all commands used in cluster hadoop.
