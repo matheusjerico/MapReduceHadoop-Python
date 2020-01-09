@@ -1,7 +1,7 @@
 from mrjob.job import MRJob
 
 class FriendsAgeMR(MRJob):
-    def mapper(self, key, line):
+    def mapper(self, _, line):
         (ID, name, age, nFriends) = line.split(',')
         yield age, float(nFriends)
     
